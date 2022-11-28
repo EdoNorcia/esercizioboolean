@@ -1,0 +1,72 @@
+body{
+  opacity: 1;
+  background-image: url("background.jpg");
+  background-size:  cover;
+  color: white;
+  font-family: Garamond;
+}
+
+#carica1{
+  background-color: orange;
+  width: 450px;
+  height: 30px
+}
+#carica2{
+  background-color: #4dc94d;
+  width: 650px;
+  height: 30px
+}
+
+#carica3{
+  background-color: red;
+  width: 150px;
+  height: 30px
+}
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+}
+.box{
+  background-color: rgba(0,0,0,0.5);
+  width: 1500px;
+  height: 1000px;
+  margin: auto;
+  border-radius: 30px;
+}
+.nav{
+  margin: auto ;
+  margin-bottom: 50px;
+  width: 1100px;
+  background-color: #4dc94d;
+  padding: 20px;
+  text-align: center;
+}
+.batteria{
+  padding-left: 200px;
+  text-align: left;
+  margin: auto;
+}
+
+.container2{
+  margin-left: 35%;
+}
+.logo{
+  display: block;
+  width: 200px;
+  margin: auto;
+  margin-top: 10%;
+  padding-top: 5%;
+}
+
+.logo-text{
+  font-size: 35px;
+  color: #4dc94d;
+  margin: auto;
+}
+
+.container{
+  width: 500px;
+  margin: auto;
+  margin-top: 10%;
+}
